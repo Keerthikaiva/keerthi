@@ -10,7 +10,7 @@ thinking)
 ---
 ## Problem definition and design thinking
 The phase1 describes the problem definition and the design thinking methods
-- Phase 1 -[AI_Phase1]()
+- Phase 1 -[AI_Phase1](https://github.com/Keerthikaiva/keerthi/blob/main/AI_Phase1.docx)
 ## Innovation
 The phase2 explores innovative techniques and aims at improving the prediction
 system&#39;s accuracy,robustness.
